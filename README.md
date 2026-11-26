@@ -22,13 +22,14 @@
 Python, SQL, R, C#, JavaScript, Bash, 
 
 **Data & Machine Learning**  
-pandas, scikit-learn, Scrapy, Jupyter Notebook, Power BI, Polars, Altair, Numpy, PyTorch
+pandas, scikit-learn, Scrapy, Jupyter Notebook, Matplotlib, seaborn,
+Power BI, Polars, Altair, Numpy, PyTorch, 
 
 **Cloud & Infrastructure**  
 AWS, IAM, CloudTrail, Terraform
 
 **Security & Monitoring**  
-Splunk, Nmap, Nessus, Metaspolit, 
+Splunk, Nmap, Nessus, Metaspolit, Wireshark
 
 ---
 
